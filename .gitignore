@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+
+# Videos (too large for GitHub)
+*.mp4
+*.avi
+*.mov
+
+# Outputs
+output_*.mp4
+heatmap.jpg
+*.csv
+*.png
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# OS
+.DS_Store
+Thumbs.db
