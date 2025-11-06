@@ -7,8 +7,6 @@ Develop a system that:
 3. Defines a **virtual ROI line**
 4. Counts **entry/exit** by crossing ROI
 
-**All requirements met.**
-
 ---
 
 ## Solution
@@ -34,3 +32,16 @@ Develop a system that:
 ```bash
 pip install -r requirements.txt
 python footfall_counter.py
+
+---
+
+
+https://github.com/user-attachments/assets/f1d111f2-ec73-4a74-ae98-3522613024f7
+
+
+## Output
+- Annotated Video:
+
+## Video Source
+- Pixabay — Airport People Crowd Busy:
+-https://pixabay.com/videos/airport-people-crowd-busy-36510/
