@@ -30,6 +30,8 @@ Develop a system that:
 
 ## Output
 - Annotated Video:https://github.com/user-attachments/assets/f1d111f2-ec73-4a74-ae98-3522613024f7
+- Screenshot of the count : <img width="1919" height="1002" alt="Screenshot 2025-11-06 235904" src="https://github.com/user-attachments/assets/00bf849c-1c18-4bef-a30d-5f8ef3139be9" />
+
 
 ## Video Source
 - Pixabay — Airport People Crowd Busy:
